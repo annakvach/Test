@@ -1,6 +1,6 @@
 
-*BigData/*
-
+BigData/
+.idea/
 *.csv
 *.json
 BigData/LLP_Genomed_Ayr_OVNG50V02_20230213_FinalReport.txt
